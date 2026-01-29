@@ -23,9 +23,8 @@ Email: genghaoyv@gmail.com
 - [Large-Scale Two-Sample Comparison of Support Sets](https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2210337/), **Haoyu Geng**, Xiaolong Cui, Haojie Ren and Changliang Zou, 2024. Journal of the American Statistical Association (JASA).
    
 
-- **Title of the Paper**  
-   *Journal Name*, Year.  
-   [Link to Paper](#) (if available)
+- [Robust Estimation of High-Dimensional Linear Regression With Changepoints](https://ieeexplore.ieee.org/abstract/document/10584511/), Xiaolong Cui, **Haoyu Geng**, Zhaojun Wang and Changliang Zou, 2024. IEEE Transactions on Information Theory (IEEE TIT). 
+
 
 - **Title of the Paper**  
    *Journal Name*, Year.  
