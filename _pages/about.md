@@ -26,6 +26,24 @@ Email: genghaoyv@gmail.com
 - [Robust Estimation of High-Dimensional Linear Regression With Changepoints](https://ieeexplore.ieee.org/abstract/document/10584511/), Xiaolong Cui, **Haoyu Geng**, Zhaojun Wang and Changliang Zou, 2024. IEEE Transactions on Information Theory (IEEE TIT). 
 
 
-- **Title of the Paper**  
-   *Journal Name*, Year.  
-   [Link to Paper](#) (if available)
+- [Online Multiple Changepoint Detection with False Discovery Rate Control](https://ieeexplore.ieee.org/abstract/document/11165516/), Xiaolong Cui, **Haoyu Geng**, Haojie Ren, Zhaojun Wang and Changliang Zou, 2025. IEEE Transactions on Information Theory (IEEE TIT).
+
+- [ART: Distribution-Free and Model-Agnostic Changepoint Detection with Finite-Sample Guarantees](https://arxiv.org/abs/2501.04475/), Xiaolong Cui, **Haoyu Geng**, Guanghui Wang, Zhaojun Wang and Changliang Zou, 2026. Journal of the Royal Statistical Society: Series B (JRSSB).
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
