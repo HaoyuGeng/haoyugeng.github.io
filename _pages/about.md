@@ -17,3 +17,16 @@ Email: genghaoyv@gmail.com
 [Google scholar](https://scholar.google.com/citations?user=7BJqdDsAAAAJ&hl=zh-CN&oi=ao/)
 
 
+
+## Publications
+
+- [Large-Scale Two-Sample Comparison of Support Sets](https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2210337/), **Haoyu Geng**, Xiaolong Cui, Haojie Ren and Changliang Zou, 2024. Journal of the American Statistical Association (JASA).
+   
+
+- **Title of the Paper**  
+   *Journal Name*, Year.  
+   [Link to Paper](#) (if available)
+
+- **Title of the Paper**  
+   *Journal Name*, Year.  
+   [Link to Paper](#) (if available)
