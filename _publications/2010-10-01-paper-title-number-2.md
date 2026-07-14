@@ -3,7 +3,7 @@ title: "Paper Title Number 2"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '- [Large-Scale Two-Sample Comparison of Support Sets](https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2210337/), **Haoyu Geng**, Xiaolong Cui, Haojie Ren and Changliang Zou, 2024. Journal of the American Statistical Association (JASA).'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
