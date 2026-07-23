@@ -15,7 +15,7 @@ main:
     url: "/publications/"
 
   - title: "Teaching"
-    url:     
+    url:  "/teaching/"   
     
   # - title: "Programs"
   #   url: 
